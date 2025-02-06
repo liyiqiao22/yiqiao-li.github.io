@@ -1,25 +1,22 @@
 ---
 layout: page
-title: project 2
-description: Investigation of Emerging Sensing and AI/ML Technologies to Enhance the Safety of Vulnerable Roadway Users at Signalized Intersection
+title: Investigation of Emerging Sensing and AI/ML Technologies to Enhance the Safety of Vulnerable Roadway Users at Signalized Intersection
+description: US DOT – UTC TBD National Center
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Investigation of Emerging Sensing and AI/ML Technologies to Enhance the Safety of Vulnerable Roadway Users at Signalized Intersection
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Year: 2024-2026
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Role: PI
+
+Sponsor: US DOT – UTC Region 2 SEMPACT center
+
+Description: Pedestrians, bicyclists, and other non-vehicle occupants are considered vulnerable roadway users (VRUs), accounting for around 19 percent of crash fatalities. However, it remains a great challenge to accurately identify and analyze VRUs due to their inclinations to deviate from well-defined routes, resulting in limited data sources available to inform the development of effective signal control strategies for enhancing intersection safety. This study aims to design an AI/ML (Artificial Intelligence/Machine Learning)-empowered data collection and analysis method by investigating and fusing two promising and complementary multimodal sensors, namely, Light Detection and Ranging (LiDAR) and Pan-tilt-zoom (PTZ) Network Cameras. Great efforts will be made to devise effective visual, temporal, and 3-D point cloud data (PCD) ML, especially deep learning (DL), approaches, to accurately identify and analyze the nature and behavioral properties of pedestrians, cyclists, and various vehicle types, providing high-quality information inputs for effective strategic planning and thus enhancing intersection safety.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
