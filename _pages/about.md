@@ -20,11 +20,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
 
 ## Welcome
 Welcome to the AI & Transportation Research Lab at CCNY! Our lab is dedicated to advancing transportation research by harnessing cutting-edge technologies, including artificial intelligence, advanced sensing systems, and the Internet of Things (IoT). We develop intelligent, data-driven solutions to enhance mobility, safety, and sustainability in transportation systems. Here, you’ll find information about our research projects, publications, and opportunities for collaboration.
