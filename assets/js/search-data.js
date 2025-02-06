@@ -444,7 +444,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-drive-by-sensing-for-urban-truck-characterization-using-google-street-view-imagery",
           title: 'Drive-by Sensing for Urban Truck Characterization using Google Street View Imagery',
-          description: "",
+          description: "Sponsor by US DOT - UTC SEMPACT Center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
