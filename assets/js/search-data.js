@@ -447,9 +447,9 @@ ninja.data = [{
           description: "Sponsor by US DOT - UTC SEMPACT Center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "Investigation of Emerging Sensing and AI/ML Technologies to Enhance the Safety of Vulnerable Roadway Users at Signalized Intersection",
+            },},{id: "projects-investigation-of-emerging-sensing-and-ai-ml-technologies-to-enhance-the-safety-of-vulnerable-roadway-users-at-signalized-intersection",
+          title: 'Investigation of Emerging Sensing and AI/ML Technologies to Enhance the Safety of Vulnerable...',
+          description: "US DOT – UTC TBD National Center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
