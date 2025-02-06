@@ -442,9 +442,9 @@ ninja.data = [{
           section: "News",},{id: "news-ai-amp-amp-mobility-research-lab-online",
           title: 'AI &amp;amp;amp; Mobility Research Lab online',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-drive-by-sensing-for-urban-truck-characterization-using-google-street-view-imagery",
+          title: 'Drive-by Sensing for Urban Truck Characterization using Google Street View Imagery',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
