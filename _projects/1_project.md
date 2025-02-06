@@ -4,7 +4,7 @@ title: Drive-by Sensing for Urban Truck Characterization using Google Street Vie
 description: Sponsor by US DOT - UTC SEMPACT Center
 img: assets/img/1.jpg
 importance: 1
-category: work
+category: On-going Projects
 related_publications: true
 ---
 
