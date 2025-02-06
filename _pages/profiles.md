@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: 2.jpg
+    image: 6.jpg
     content: valentina.md
     image_circular: false # crops the image to make it circular
 
