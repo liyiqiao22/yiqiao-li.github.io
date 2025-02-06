@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://yiqiao-li.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://yiqiao-li.github.ioyiqiao-li/sitemap.xml
