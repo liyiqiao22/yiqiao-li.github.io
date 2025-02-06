@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: Investigation of Emerging Sensing and AI/ML Technologies to Enhance the Safety of Vulnerable Roadway Users at Signalized Intersection
 img: assets/img/3.jpg
 importance: 2
 category: work
