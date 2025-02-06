@@ -4,7 +4,7 @@ title: Investigation of Emerging Sensing and AI/ML Technologies to Enhance the S
 description: US DOT – UTC TBD National Center
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Current
 giscus_comments: true
 ---
 
