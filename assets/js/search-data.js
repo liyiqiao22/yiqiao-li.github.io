@@ -495,11 +495,11 @@ ninja.data = [{
           window.open("mailto:%79%6C%69%34@%63%63%6E%79.%63%75%6E%79.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Yiqiao-Li-2?ev=hdr_xprf/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -507,13 +507,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=M5XHvEYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
