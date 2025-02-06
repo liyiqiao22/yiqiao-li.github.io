@@ -7,18 +7,13 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Exploring Drive-by Sensing for Urban Truck Characterization using Google Street View Imagery
+Year: 2024-2025
+Role: PI (Sole)
+Sponsor: US DOT – UTC TBD National Center
+Description: Trucks are vital to urban economies by facilitating the movement of goods and services, but their presence can significantly affect urban infrastructure, traffic congestion, air quality, and noise pollution. Effective urban planning and policymaking depend on a comprehensive understanding of truck activity. However, urban truck data collection remains limited. This study will make the first attempt to address this urban freight data gap by leveraging drive-by sensing technology, specifically leveraging data from Google Street View (GSV) cars, to analyze truck distribution in urban areas. We aim to develop an advanced vision-based deep learning framework that can identify the location vehicles and classify them according to body configurations, which may indicate the type of goods they carry. By utilizing GSV’s extensive visual dataset and customized deep learning algorithms, we will focus on Manhattan’s complex road network and varied traffic conditions for precise truck identification. By understanding urban truck distribution, policymakers can make informed decisions to improve urban living conditions and transportation efficiency. This research will provide valuable insights into urban truck distribution, enabling policymakers to make informed decisions to enhance urban living conditions and transportation efficiency. Ultimately, this study will highlight the potential of combining GSV data with machine learning to advance urban truck activity analysis and support smart city initiatives.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
