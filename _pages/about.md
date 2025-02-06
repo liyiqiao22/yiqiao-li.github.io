@@ -10,8 +10,8 @@ profile:
   more_info: >
     <p>Assistant Professor</p>
     <p>Department of Civil Engineering</p>
-    <p>City College of New York (CCNY)</p>
-    <p>City University of New York (CUNY)</p>
+    <p>City College of New York</p>
+    <p>City University of New York</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
