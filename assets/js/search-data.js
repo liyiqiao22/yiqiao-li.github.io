@@ -460,6 +460,13 @@ ninja.data = [{
           window.open("mailto:%79%6C%69%34@%63%63%6E%79.%63%75%6E%79.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/yiqiao-li-a14408130/", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
