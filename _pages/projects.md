@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 nav: true
 nav_order: 2
-display_categories: [On-going, Pass]
+display_categories: [Current, Past]
 horizontal: true
 ---
 
