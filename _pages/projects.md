@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [On-going, Pass]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
