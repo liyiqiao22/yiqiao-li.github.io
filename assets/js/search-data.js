@@ -422,9 +422,9 @@ ninja.data = [{
           description: "US DOT – UTC Region 2 SEMPACT center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-analyzing-cross-border-truck-activity-to-inform-california-s-transition-to-zero-emission-trucks",
+          title: 'Analyzing Cross-Border Truck Activity to Inform California’s Transition to Zero-Emission Trucks',
+          description: "Sponsor by Resilient and Innovative Mobility Initiative (RIMI)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
