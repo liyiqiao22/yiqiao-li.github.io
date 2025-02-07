@@ -417,8 +417,8 @@ ninja.data = [{
           description: "US DOT – UTC TBD National Center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-1-congestion-pricing-effects-on-traffic-patterns-in-neighboring-underserved-communities",
-          title: '1.	Congestion Pricing Effects on Traffic Patterns in Neighboring Underserved Communities',
+            },},{id: "projects-congestion-pricing-effects-on-traffic-patterns-in-neighboring-underserved-communities",
+          title: 'Congestion Pricing Effects on Traffic Patterns in Neighboring Underserved Communities',
           description: "US DOT – UTC Region 2 SEMPACT center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
