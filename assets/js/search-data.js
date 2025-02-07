@@ -432,9 +432,9 @@ ninja.data = [{
           description: "Sponsor by Road Repair and Accountability Act of 2017 (SB1) and California Air Resources Board",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-investigation-of-lidar-sensing-technology-to-improve-traffic-monitoring-along-multilane-freeways",
+          title: 'Investigation of LiDAR Sensing Technology to Improve Traffic Monitoring Along Multilane Freeways',
+          description: "Sponsor by California Department of Transportation (Caltrans) and UTC Region 9 Pacific Southwest Region.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
