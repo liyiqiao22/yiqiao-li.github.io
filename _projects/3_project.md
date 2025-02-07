@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1.	Congestion Pricing Effects on Traffic Patterns in Neighboring Underserved Communities
+title: Congestion Pricing Effects on Traffic Patterns in Neighboring Underserved Communities
 description: US DOT – UTC Region 2 SEMPACT center
 img: assets/img/7.jpg
 importance: 3
