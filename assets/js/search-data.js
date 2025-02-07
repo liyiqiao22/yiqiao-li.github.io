@@ -437,9 +437,9 @@ ninja.data = [{
           description: "Sponsor by California Department of Transportation (Caltrans) and UTC Region 9 Pacific Southwest Region.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-improved-california-truck-traffic-census-reporting-and-spatial-activity-measurement",
+          title: 'Improved California Truck Traffic Census Reporting and Spatial Activity Measurement',
+          description: "Sponsor by Road Repair and Accountability Act of 2017 (SB1) and California Air Resources Board",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
