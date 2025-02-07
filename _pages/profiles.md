@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     
   - align: left
-    image: 1.jpg
+    image: bo.jpg
     content: bo.md
     image_circular: false # crops the image to make it circular
 
