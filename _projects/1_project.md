@@ -19,8 +19,3 @@ Description: Trucks are vital to urban economies by facilitating the movement of
 
 
 
-  </div>
-</div>
-```
-
-{% endraw %}
