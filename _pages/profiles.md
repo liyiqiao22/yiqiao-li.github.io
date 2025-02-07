@@ -25,7 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: 3.jpg
+    image: 4.jpg
     content: blanche.md
     image_circular: false # crops the image to make it circular
 
