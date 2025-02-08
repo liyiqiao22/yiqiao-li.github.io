@@ -35,7 +35,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: 5.jpg
+    image: wenjie.png
     content: wenjie.md
     image_circular: false # crops the image to make it circular
     
