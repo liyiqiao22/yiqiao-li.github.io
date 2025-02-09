@@ -12,31 +12,31 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: yiqiao.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     
   - align: left
     image: Bo_Shang.JPG
     content: bo.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
 
   - align: left
     image: 6.jpg
     content: valentina.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
 
   - align: left
     image: 4.jpg
     content: blanche.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
 
   - align: left
     image: kevin.jpg
     content: kevin.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
 
   - align: left
     image: wenjie.png
     content: wenjie.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     
 ---
