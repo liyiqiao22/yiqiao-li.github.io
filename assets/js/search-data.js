@@ -464,14 +464,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/yiqiao-li-a14408130/", "_blank");
+          window.open("https://www.linkedin.com/in/yiqiao-li-a14408130", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Yiqiao-Li-2?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Yiqiao-Li-2/", "_blank");
         },
       },{
         id: 'social-scholar',
